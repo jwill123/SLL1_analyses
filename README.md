@@ -1,5 +1,5 @@
 # SLL1_analyses
-Code for analyzing the data of the 1st edition of Saca La Lengua
+Code for analyzing the data of the 1st edition of [Saca La Lengua](https://dx.doi.org/10.1080%2F20002297.2021.1897328)
 
 The primary scripts for the analyses are:
 - **src/dada2_pipeline.R** for read filtering and taxonomy assignment
